@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 struct pessoa{
-    int id;
+    int id;//oi
     char nome[20];
 };
 struct lista{
